@@ -1,14 +1,12 @@
-# Mauko Maunde
+# Hi there 👋
 
-## Hi there 👋
-
-### Who am I?
+## Who am I?
 
 - A Senior FullStack developer based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Kenya).**
 - Have 10+ years of hands-on experience in **Software Development** and 2 years experience in **Data Science.**
 - Have built **Web** apps targeting **multi-platform** ecosystems in **monolithic** and **microservices** architectures.
 
-### What I'm doing at the moment?
+## What I'm doing at the moment?
 
 - 🏢 Consulting with **[Branded](https://branded/co.ke/)** as a **Senior Developer**.
 - 👨‍💻 Writing `Python`, `Ruby on Rails`, `SQL`, `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `VueJS`.
@@ -19,11 +17,11 @@
 
 <!-- ![Mauko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maukoese&theme=gotham&layout=compact) -->
 
-### What I like to talk about?
+## What I like to talk about?
 
 - 💬 Ask me about `Web APIs`, `System design`, `Scalability`, `Design patterns`, `Data structures`, `Clean code`, `Requirement Analysis`, `Choice of Frameworks` and `Tech Culture`.
 
-### What my skill set looks like?
+## What my skill set looks like?
 
 - 🖥 **Front-end:**
   - **📜 Languages:** • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
@@ -48,7 +46,7 @@
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
   
-#### What's interesting about me?  
+## What's interesting about me?  
 
 - 😎 I am an **Ambivert** and I can speak **English** and **Swahili** in multiple accents.
 
@@ -58,7 +56,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maukoese"/>
 </p>
 
-#### What companies have I worked for?
+## What companies have I worked for?
 
 <p left="center">
   <a href="https://moringaschool.com/">
@@ -67,7 +65,7 @@
   
 </p>
 
-#### How to get in touch with me?
+## How to get in touch with me?
 
 <p left="center">
 <a href="https://www.linkedin.com/in/maukoese">
