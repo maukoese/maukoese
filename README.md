@@ -13,7 +13,6 @@
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/maukoese/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - 📚 Currently learning about **Data Science**, **Cloud Development**, **Large scale system design**, and **Blockchain**.
-- 👯 Looking to collaborate on **Ruby on Rails Projects**.
 
 <!-- ![Mauko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maukoese&theme=gotham&layout=compact) -->
 
@@ -34,7 +33,7 @@
   - **🔭 Frameworks:** • [Rails](https://guides.rubyonrails.org/) • [Flask](https://flask.palletsprojects.com/en/2.2.x/) • [Django](https://www.djangoproject.com/)
   - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [PostgreSQL](https://www.postgresql.org/) • [SQLite](https://www.sqlite.org/index.html)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
-  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [GraphQL](https://git-scm.com/) • [tRPc](https://github.com/)
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/)
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards)
@@ -42,13 +41,9 @@
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:** • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID)
-  
-- **🏗️ Code editors:**
-<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
-  
-## What's interesting about me?  
 
-- 😎 I am an **Ambivert** and I can speak **English** and **Swahili** in multiple accents.
+  
+## Some interesting stats  
 
 <!--Github Stats-->
 <p float="left">
